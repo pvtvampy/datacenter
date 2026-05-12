@@ -1,0 +1,44 @@
+{
+  "layout": "content-baseapk-paks-only-obb",
+  "package": "com.tencent.ig",
+  "date": "5.12.2026.22.50.36",
+  "source_type": "adb-direct-pull",
+  "overwrite": false,
+  "chunk_mb": 25,
+  "repo": "pvtvampy/datacenter/pubg/4.4/5.12.2026.22.50.36",
+  "created_at": "2026-05-12T22:50:42",
+  "pull_backend": "direct subprocess adb pull",
+  "pull_order": [
+    "delete ClearFlag",
+    "OBB folder",
+    "Paks folder only",
+    "base.apk"
+  ],
+  "content_layout": {
+    "base.apk": "content/base.apk",
+    "data": "content/data/Paks",
+    "obb": "content/obb/<package>"
+  },
+  "groups": {
+    "data": {
+      "remote": "/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks",
+      "source_pulled": "C:\\Users\\vampy\\Documents\\pubg_storage\\backups\\com.tencent.ig\\5.12.2026.22.50.36\\_pull_temp\\paks_pull",
+      "local": "C:\\Users\\vampy\\Documents\\pubg_storage\\backups\\com.tencent.ig\\5.12.2026.22.50.36\\content\\data\\Paks",
+      "mode": "paks-only",
+      "size": 27726500,
+      "files": 4
+    }
+  },
+  "files": [
+    {
+      "path": "backup.part1.rar",
+      "size": 26214400,
+      "sha256": "12e55b43d7fe290977a1e286c4d07e41e0477508f9e31c3718f143af21d77f99"
+    },
+    {
+      "path": "backup.part2.rar",
+      "size": 559930,
+      "sha256": "c3051a9e73f8f0ae85cd3d974e6e94d7a2034deaf620070e0b57b30fe70dd5f9"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "layout": "content-baseapk-paks-only-obb-or-generic",
+  "package": "com.tencent.ig",
+  "date": "PUBGM__v4.4.0__32Bit_5.13.2026.3.21.36",
+  "source_type": "generic-selected-folder",
+  "overwrite": false,
+  "chunk_mb": 95,
+  "rar_method": 0,
+  "rar_recovery_pct": 0,
+  "repo": "pvtvampy/datacenter/pubg/4.4/PUBGM__v4.4.0__32Bit_5.13.2026.3.21.36",
+  "created_at": "2026-05-13T03:21:52",
+  "pull_backend": "direct subprocess adb pull",
+  "content_layout": {
+    "base.apk": "content/base.apk",
+    "data": "content/data/Paks",
+    "obb": "content/obb/<package>",
+    "generic": "content/<selected_folder>"
+  },
+  "groups": {
+    "generic_folder": {
+      "selected_folder": "C:\\Users\\vampy\\Downloads\\PUBGM_(v4.4.0)_32Bit",
+      "packed_as": "C:\\Users\\vampy\\Documents\\pubg_storage\\pack_any_folder_cache\\com.tencent.ig\\PUBGM__v4.4.0__32Bit_5.13.2026.3.21.36\\content\\PUBGM_(v4.4.0)_32Bit",
+      "size": 192780626,
+      "files": 1063
+    }
+  },
+  "files": [
+    {
+      "path": "backup.part1.rar",
+      "size": 99614720,
+      "sha256": "0ebe3cc281e7cdc50a593a007e94ee38c0a1b7ef1e337200ad6a346d74ae907c"
+    },
+    {
+      "path": "backup.part2.rar",
+      "size": 93345138,
+      "sha256": "e413b807c02a206cc939db51f7df468d596ae96652e97e5ce67f37825b76df0b"
+    }
+  ]
+}

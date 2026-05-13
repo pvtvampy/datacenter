@@ -1,0 +1,8 @@
+Extract backup.part1.rar.
+Archive layout usually:
+  content/base.apk
+  content/data/Paks/<Paks files only>
+  content/obb/<package>/<OBB files>
+
+Generic folder mode:
+  content/<selected_folder>/...

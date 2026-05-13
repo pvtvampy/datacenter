@@ -1,0 +1,117 @@
+{
+  "layout": "content-baseapk-paks-only-obb-or-generic",
+  "source_name": "data",
+  "package": "com.tencent.ig",
+  "date": "5.13.2026.5.49.42",
+  "source_type": "generic-selected-folder",
+  "overwrite": false,
+  "chunk_mb": 95,
+  "rar_method": 0,
+  "rar_threads": 12,
+  "rar_recovery_pct": 0,
+  "repo_path": "pubg/4.4/data/5.13.2026.5.49.42",
+  "repo": "pvtvampy/datacenter/pubg/4.4/data/5.13.2026.5.49.42",
+  "created_at": "2026-05-13T05:49:45",
+  "git_backend": "light-fetch-filter-blob-none-no-full-clone",
+  "content_layout": {
+    "base.apk": "content/base.apk",
+    "data": "content/data/Paks",
+    "obb": "content/obb/<package>",
+    "generic": "content/<selected_folder>"
+  },
+  "groups": {
+    "generic_folder": {
+      "selected_folder": "C:\\Users\\ETO\\Desktop\\pubg_storage\\backups\\com.tencent.ig\\5.13.2026.5.29.59\\content\\data",
+      "packed_as": "C:\\Users\\ETO\\Desktop\\pubg_storage\\pack_any_folder_cache\\data\\5.13.2026.5.49.42\\content\\data",
+      "size": 1669355929,
+      "files": 1
+    }
+  },
+  "files": [
+    {
+      "path": "backup.part01.rar",
+      "size": 99614720,
+      "sha256": "922a1fbb96e3d00fe2c357a7180491e1cbbd1496e4efa6783415ae025cbbfcf5"
+    },
+    {
+      "path": "backup.part02.rar",
+      "size": 99614720,
+      "sha256": "51fa1d746c92235b15a2a08935de65203cf01d6604752615f1e7dae7b749702d"
+    },
+    {
+      "path": "backup.part03.rar",
+      "size": 99614720,
+      "sha256": "aff7156a22895e506cd5e76369a0b22e4347eb34306cc66ea581c8576e9a874f"
+    },
+    {
+      "path": "backup.part04.rar",
+      "size": 99614720,
+      "sha256": "4adc7f49aad005ba85045530f2b77d3c9ddba823686b926eb89e67e9735f8780"
+    },
+    {
+      "path": "backup.part05.rar",
+      "size": 99614720,
+      "sha256": "19bbfa91fcda1916e8aade890216d0e566084e9a2b3c9a8d258945801b44de92"
+    },
+    {
+      "path": "backup.part06.rar",
+      "size": 99614720,
+      "sha256": "59b986aa04f44c46f257f330e13571a46421e2bcaa7669263ac434c55f658a6e"
+    },
+    {
+      "path": "backup.part07.rar",
+      "size": 99614720,
+      "sha256": "b19f91333831cdc04f017b361a4fe202ed6a2ba9486aa3342f57d90d69fae7ea"
+    },
+    {
+      "path": "backup.part08.rar",
+      "size": 99614720,
+      "sha256": "c081fdb38671fda1cfbe9256365f0d41d2bd30559410282e47150ecf3a5ad5e0"
+    },
+    {
+      "path": "backup.part09.rar",
+      "size": 99614720,
+      "sha256": "b21b05e733f5a968e3d3d7f5b647f09a981c735a2cea6d20a6f76440d0316d23"
+    },
+    {
+      "path": "backup.part10.rar",
+      "size": 99614720,
+      "sha256": "f270b068d36d7489b1a433f87c00423b8c82d81236f7085b37304b4557c2b5e5"
+    },
+    {
+      "path": "backup.part11.rar",
+      "size": 99614720,
+      "sha256": "6c8fea7c42fa1165115408ac1ec092a0bc9169460a9ec237e6b8786a941fbe92"
+    },
+    {
+      "path": "backup.part12.rar",
+      "size": 99614720,
+      "sha256": "ccb6d7321134c884fc4bb8fa5a532aa3f871ec23583b34a473807b878625750c"
+    },
+    {
+      "path": "backup.part13.rar",
+      "size": 99614720,
+      "sha256": "fb8322a07cd2596eb61d6a8523bb218bc5856e4ff61ff7eb502fbddd64346359"
+    },
+    {
+      "path": "backup.part14.rar",
+      "size": 99614720,
+      "sha256": "3ee38b0b3f55f7a5906dff9a9fda0815bc8008bc7da8d59f9d366208f4c0899c"
+    },
+    {
+      "path": "backup.part15.rar",
+      "size": 99614720,
+      "sha256": "92493d3674f3f4b6d5cdb6d48c81bb24cbdf96575fc7e252c2473db2c84e06f4"
+    },
+    {
+      "path": "backup.part16.rar",
+      "size": 99614720,
+      "sha256": "7e6dddc51b9277b143d09ff9f321306d5eb544ac462e399a24c6355592939f6d"
+    },
+    {
+      "path": "backup.part17.rar",
+      "size": 75523925,
+      "sha256": "3d0d516abe4ed991240fb793c2743579261c7af00feac956c10da61fdfbaebe8"
+    }
+  ]
+}
